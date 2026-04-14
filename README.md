@@ -123,3 +123,4 @@ The addition of AI function undoubtedly makes Math99 LaTex formula editor a more
 Math99 LaTeX Editor is a comprehensive and easy-to-use online formula editor, which is very suitable for teachers, students, researchers, content creators and other users. Whether you are a LaTeX novice or a formula typesetting expert, it can help you input, render and share professional formulas in the most efficient way.
 
 If you are looking for a mathematical formula tool that does not require installation, has zero learning cost, and is fully functional, you might as well visit[Math99 LaTeX Formula Editor](https://www.processon.io/)  immediately and start your formula creation journey!
+[View original](https://www.processon.io/blog/mermaid-code)
